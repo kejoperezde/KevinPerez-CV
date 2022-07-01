@@ -1,17 +1,26 @@
 # Kevin Pérez Certificados
 
+## CSS
+> HTML, CSS, Flexbox, Grid, Responsive, SASS, LESS, Bootstrap
+
+![Css](Certificados/Css.jpg)
+[URL del certificado](https://www.udemy.com/certificate/UC-db8adb3f-a1b0-4a03-8f12-2dd7d3e353e3/)
+## Php
+> Php, Laravel, Symfony, Sql, WordPress 
+
+    Proximamente...
 
 ## JavaScript
 > JavaScript, TypeScript, JQuery, Angular, NodeJS, MongoDB
 
 ![JavaScript](Certificados/JS.jpg)
-[URL del certificado](ude.my/UC-4d29b4ef-cfd6-4212-9792-fc9d6d49ff55)
+[URL del certificado](https://www.udemy.com/certificate/UC-4d29b4ef-cfd6-4212-9792-fc9d6d49ff55/)
 
-## CSS
-> HTML, CSS, Flexbox, Grid, Responsive, SASS, LESS, Bootstrap
+## Frameworks JavaScript
+> Angular, React, Vue.js 
 
-![Css](Certificados/Css.jpg)
-[URL del certificado](ude.my/UC-db8adb3f-a1b0-4a03-8f12-2dd7d3e353e3)
+    Proximamente...
+
 ## Azure Fundamentals
 
 ![AzureFundamentals](Certificados/AzureFundamentals.jpg)
@@ -20,9 +29,9 @@
 > Diseño digial
 
 ![Photoshop](Certificados/Photoshop.jpg)
-[URL del certificado](ude.my/UC-7300681b-9fbf-4b3d-af8f-2949c99b7ca7)
+[URL del certificado]([ude.my/UC-7300681b-9fbf-4b3d-af8f-2949c99b7ca7](https://www.udemy.com/certificate/UC-7300681b-9fbf-4b3d-af8f-2949c99b7ca7/))
 
 ## Lightroom
  
 ![Lightroom](Certificados/AdobeLightroom.jpg)
-[URL del certificado](ude.my/UC-6c4b02d4-4f36-4e59-a63b-d9b211c5dd11)
+[URL del certificado](https://www.udemy.com/certificate/UC-6c4b02d4-4f36-4e59-a63b-d9b211c5dd11/)
