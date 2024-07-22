@@ -4,8 +4,7 @@
 
 # Certificados
 
-## Photoshop
-> INTRODUCCION A LAS REDES 2024
+## INTRODUCCION A LAS REDES 2024
 ![INTRODUCCION A LAS REDES 2024](Images/INTRODUCCIONAL-certificate_1.jpg)
 
 ## CSS
