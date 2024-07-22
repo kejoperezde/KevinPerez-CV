@@ -6,7 +6,7 @@
 
 ## Photoshop
 > INTRODUCCION A LAS REDES 2024
-![INTRODUCCION A LAS REDES 2024](Images/INTRODUCCION A L-certificate_1.jpg)
+![INTRODUCCION A LAS REDES 2024](Images/INTRODUCCIONAL-certificate_1.jpg)
 
 ## CSS
 > HTML, CSS, Flexbox, Grid, Responsive, SASS, LESS, Bootstrap
