@@ -4,6 +4,10 @@
 
 # Certificados
 
+## Photoshop
+> INTRODUCCION A LAS REDES 2024
+![INTRODUCCION A LAS REDES 2024](Images/INTRODUCCION A L-certificate_1.jpg)
+
 ## CSS
 > HTML, CSS, Flexbox, Grid, Responsive, SASS, LESS, Bootstrap
 
@@ -29,6 +33,7 @@
 
 ![AzureFundamentals](Images/AzureFundamentals.jpg)
 [URL del certificado](https://portal.certiport.com/Portal/Pages/CredentialVerification.aspx) **Ln9a - sF77**
+
 ## Photoshop
 > Diseño digial
 
